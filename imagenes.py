@@ -4,7 +4,7 @@ import os
 # API endpoint
 url = "https://api.pexels.com/v1/search"
 
-# Api Key
+# Api Key  Inserta aqui la llave de la appi puede ser cualquiera
 api_key = "oXyuVXd238y85nyxrE5kJKKTJsoqcRdtRMop4vAWchwA6PwCMCbH5Ahb"
 
 # Escribe lo que quieres de imagen
